@@ -1,0 +1,3 @@
+export const OCTAR_MODULE_OPTIONS = 'OCTAR_MODULE_OPTIONS' as const;
+export const OCTAR_CLIENT = 'OCTAR_CLIENT' as const;
+export const OCTAR_SUBSCRIBE_METADATA = 'OCTAR_SUBSCRIBE_METADATA' as const;
